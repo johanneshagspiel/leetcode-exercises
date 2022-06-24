@@ -7,12 +7,13 @@
 
 # LeetCode Exercises
 
-This repository
+This repository contains an overview of the LeetCode Exercises [I](https://leetcode.com/johanneshagspiel/) have completed until now as well as the Anki files I have created to repeat them.
 
 ## Features
 
-With the "Immutable X Gateway", the user can:
-- sdf
+This repository contains:
+- the various attempts I have tried to solve a problem as well as the final solution
+- the Anki files I have created to memorize key concepts and repeat exercises
 
 ## Tools
 
@@ -21,18 +22,9 @@ With the "Immutable X Gateway", the user can:
 | Programming language   | [Python 3.10](https://www.python.org/)                       |
 | Version control system | [Git](https://git-scm.com/)                                  |
 
-## Requirements
-
-As of this writing, requests to the API are sent whenever they arise. For this reason the request limit per seconds as set by "Immutable X" frequently is hit. To overcome this limitation, the "Immutable X Gateway" assumes that the user has installed NordVPN so that the program can switch to a new server. Thus, the "Immutable X Gateway" currently requires the user to have an active subscription with NordVPN to be used.   
-
-## Installation Process
-
-If you want to import this project and resolve all the dependencies associated with it, it is assumed that you have installed [Python 3.10](https://www.python.org/downloads/windows/) as well as the [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/index.html) dependency manager and that your operating system is Windows.
-To download all the dependencies, simply open this repository in a terminal and type
-
 ## Licence
 
-The "Immutable X Gateway" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+These "LeetCode Exercises" are published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
 
 ## References
 
