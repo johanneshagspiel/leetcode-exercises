@@ -28,3 +28,4 @@ class Solution:
                 stack.append((current_node.right, new_max_value))
 
         return res
+    
