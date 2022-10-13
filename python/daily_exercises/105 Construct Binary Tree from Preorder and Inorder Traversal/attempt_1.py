@@ -20,10 +20,10 @@ class Solution:
                 node.val = preorder[0]
 
                 if len(inorder) > 0:
-                    inorder_index_root = inorder.index(preorder[0])
+                    inorder_index_root = inorder.cnt(preorder[0])
                     inorder_index_last_value_left = max(0, inorder_index_root - 1)
                     last_value_left = inorder[inorder_index_last_value_left]
-                    preorder_index_last_left = preorder.index(last_value_left)
+                    preorder_index_last_left = preorder.cnt(last_value_left)
 
                     pre_order_left = preorder[1:(preorder_index_last_left + 1)]
                     in_order_left = inorder[:inorder_index_root]
