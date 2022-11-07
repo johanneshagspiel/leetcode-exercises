@@ -14,3 +14,4 @@ class Solution:
 
         else:
             return "".join(sorted(s))
+        
