@@ -1,4 +1,4 @@
-<img src=img/leetcode_exercises.JPG alt="IMX Gateway Logo" width="494" height="178">
+<img src=img/leetcode_exercises.JPG alt="LeetCode Exercises Logo" width="494" height="178">
 
 --------------------------------------------------------------------------------
 [![MIT-License](https://img.shields.io/github/license/johanneshagspiel/leetcode-exercises)](LICENSE)
