@@ -45,5 +45,3 @@ class Solution:
                           res += dfs(row, column)
 
           return res
-
-
