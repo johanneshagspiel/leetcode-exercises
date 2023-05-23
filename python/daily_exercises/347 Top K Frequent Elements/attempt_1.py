@@ -45,7 +45,7 @@ class Solution:
             else:
                 quickselect(pivot_index + 1, right, k_smallest)
 
-        n = len(nums)
+        n = len(unique)
         quickselect(0, n - 1, n - k)
 
         return unique[n-k:]
